@@ -1,37 +1,15 @@
 # Uncovering Air Quality Patterns Through the Lens of Urban Amenities
 
 ![alt text](docs/assets//header.png)
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 200px; padding: 10px;">
-<strong>Francis Mark M. Cayco</strong><br>
-Asian Institute of Management<br>
-Makati City, Philippines<br>
-fcayco.MSDS2025@aim.edu
-</div>
-
-<div style="flex: 1; min-width: 200px; padding: 10px;">
-<strong>Eros Paul V. Estante</strong><br>
-Asian Institute of Management<br>
-Makati City, Philippines<br>
-eestante.MSDS2025@aim.edu
-</div>
-
-<div style="flex: 1; min-width: 200px; padding: 10px;">
-<strong>Andgrel Heber M. Jison</strong><br>
-Asian Institute of Management<br>
-Makati City, Philippines<br>
-ajison.msds2025@aim.edu
-</div>
-
-<div style="flex: 1; min-width: 200px; padding: 10px;">
-<strong>Angela Elaine F. Pelayo</strong><br>
-Asian Institute of Management<br>
-Makati City, Philippines<br>
-apelayo.msds2025@aim.edu
-</div>
-
-</div>
+<table>
+  <tr>
+    <td><strong>Francis Mark M. Cayco</strong><br>Asian Institute of Management<br>Makati City, Philippines<br>fcayco.MSDS2025@aim.edu</td>
+    <td><strong>Eros Paul V. Estante</strong><br>Asian Institute of Management<br>Makati City, Philippines<br>eestante.MSDS2025@aim.edu</td>
+    <td><strong>Andgrel Heber M. Jison</strong><br>Asian Institute of Management<br>Makati City, Philippines<br>ajison.msds2025@aim.edu</td>
+    <td><strong>Angela Elaine F. Pelayo</strong><br>Asian Institute of Management<br>Makati City, Philippines<br>apelayo.msds2025@aim.edu</td>
+  </tr>
+</table>
 
 ---
 
@@ -173,4 +151,3 @@ Thus, this study integrates geospatial analysis, Shapley values, and counterfact
 - WHO. (2021). *Air pollution and health.*
 
 ---
-# air-quality-patterns
