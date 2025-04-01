@@ -1,0 +1,12 @@
+nltk
+pandas
+scikit-learn
+spacy
+matplotlib
+numpy
+seaborn
+tqdm
+requests
+geopandas
+plotly
+shap
